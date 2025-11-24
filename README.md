@@ -1,3 +1,6 @@
+
+# <img width="600" height="755" alt="valnerocover" src="https://github.com/user-attachments/assets/bfbf208c-a378-4be3-a522-1fd3a4f4bdc1" />
+
 ## Villa Valnero - Gioco di Mistero e IA (Prompt-Driven Game)
 
 Benvenuti nel repository di **Villa Valnero**, un progetto che ridefinisce l'esperienza di gioco di ruolo (GdR) e investigazione sfruttando la potenza dei **grandi modelli linguistici (LLM)**.
@@ -31,5 +34,5 @@ Il modo migliore per interagire con questo progetto è sperimentare e migliorare
     * Fai una Pull Request con la tua versione migliorata del prompt!
 
 
-*(Questo gioco nasce grazie alla mia esperienza di docente nei corsi sulla IA, prompt design ed arte generativa che ho avuto il piacere di seguire. Un sentito ringraziamento a tutti i corsisti che mi hanno seguito nel loro percorso. Rob)*
+*(Questo gioco nasce grazie alla mia esperienza di docente nei corsi sulla IA, prompt design ed arte generativa nei quali ho avuto il privilegio di condividere la mia esperienza. Un sentito ringraziamento a tutti i corsisti che mi hanno seguito nel loro percorso. Rob "il Bak" )*
 
