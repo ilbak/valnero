@@ -12,7 +12,7 @@ Questo non è un videogioco tradizionale. **Villa Valnero** è una struttura di 
 Il modo migliore per interagire con questo progetto è sperimentare e migliorare il prompt stesso.
 
   **Avvia il Gioco:**  
-   * Copia il contenuto del file valnero.txt.
+   * Copia il contenuto del file  [valnero.txt](https://github.com/ilbak/valnero/blob/main/valnero.txt) .
    * Incollalo come primo input in un LLM (es. GPT-4, Gemini 1.5, ecc.).
    * Inizia a giocare nei panni di Noel LeChat!
 
