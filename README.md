@@ -26,12 +26,10 @@ Il modo migliore per interagire con questo progetto è sperimentare e migliorare
 ---
 
 ### 📚 Come Contribuire
-
-  **Contribuisci all'evoluzione:**
-    * Valnero è in continua evoluzione! Hai trovato un modo per rendere le istruzioni per l'IA più chiare o sofisticate?
-    * Hai aggiunto nuove meccaniche di gioco (es. un sistema di "punti morale" o di "prove")?
-    * Proponi nuove stanze, oggetti o personaggi da integrare nel CSV del prompt.
-    * Fai una Pull Request con la tua versione migliorata del prompt!
+Valnero è in continua evoluzione! Hai trovato un modo per rendere le istruzioni per l'IA più chiare o sofisticate?
+Hai aggiunto nuove meccaniche di gioco (es. un sistema di "punti morale" o di "prove")? Proponi nuove stanze, oggetti o personaggi da integrare nel CSV del prompt.
+Fai una Pull Request con la tua versione migliorata del prompt!
+Scrivi a [ilbak@ilbak.it](mailto:ilbak@ilbak.it) .
 
 
 *(Questo gioco nasce grazie alla mia esperienza di docente nei corsi sulla IA, prompt design ed arte generativa nei quali ho avuto il privilegio di condividere la mia esperienza. Un sentito ringraziamento a tutti i corsisti che mi hanno seguito nel loro percorso. Rob "il Bak" )*
